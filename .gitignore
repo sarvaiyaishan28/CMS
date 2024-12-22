@@ -169,3 +169,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+postgres-data/
+postgres-data/base/
+CMS/__pycache__/
+CMS/__pycache__/*/
+*.pyc
+__pycache__/
+.env
+media/
+*.xlsx/
+venv/
